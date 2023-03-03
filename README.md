@@ -1,6 +1,6 @@
 # Fashion-Data-Analytics-Sales-KPI
+![fashion data analytics; Sales KPI](https://user-images.githubusercontent.com/71575857/222601060-309f5bef-82ed-4bd6-9a26-d54e1b0407bf.PNG)
 
-<img width="600" alt="SALES KPI DASHBOARD" src="https://user-images.githubusercontent.com/71575857/222192119-ebcd797b-e996-4275-9509-43e986d166af.png">
 <strong> Click this link to interact with the dashboard:</strong>
 https://public.tableau.com/views/FashionRetailAnalysis_16764569484940/SALESKPIDASHBOARD?:language=en-GB&:display_count=n&:origin=viz_share_link
 
